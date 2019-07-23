@@ -1,1 +1,54 @@
 # CANDYCANEARTPORTFOLDIO1
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: url(http://media.giphy.com/media/Jrd9E2kuPuOYM/giphy.gif) 50%;
+  background-size: cover;
+  color:white;
+}
+h1, h2 {
+  display: inline-block;
+  color:black;
+  background: #fff;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+img{ 
+  height:400px
+</style>
+
+<html>
+  <head>
+  <title> CANDYCANE'S art portfoldio</title>
+  <head>
+  <body><h1>CANDYCANE'S 2018 AND 2019 PORTFOLDIO</h1><br><h2>owo</h2>
+    <p><a href="https://www.pinterest.com/candycaneawesome05"/>HERE'S THE LINK TO HER PINTEREST</a></p>
+    <p>otherwise look below for more art!!!!</p>
+    <img src=https://i.pinimg.com/originals/70/ca/0a/70ca0af25536b68b54ab70c0804921d3.png />
+    <img src=https://i.pinimg.com/originals/7c/8a/a4/7c8aa4dd66b3f204dfc7ec307b0c3158.png />
+    <img src=https://i.pinimg.com/originals/20/d9/95/20d99558eafd4334c34844bac1cb536c.png />
+    <img src=https://i.pinimg.com/originals/a3/3b/19/a33b19aa430f83c017717821fb28fada.jpg />
+    <img src=https://i.pinimg.com/originals/80/a4/59/80a459923b2ccab3582109af4e508fe4.jpg />
+    <img src=https://i.pinimg.com/originals/c2/d3/05/c2d3056d0e7b651b6c9248cbf4af0c14.jpg />
+    <img src=https://i.pinimg.com/originals/a3/92/49/a3924942fe517204c6c353473e2d8cb8.jpg />
+    <img src=https://i.pinimg.com/originals/8b/06/d1/8b06d1dd5e5e73bbab46489565c21df8.png />
+    <img src=https://i.pinimg.com/originals/bd/88/37/bd88371f74359c35c8f00413cbb80cc0.png />
+    <img src=https://i.pinimg.com/originals/bc/7c/9b/bc7c9b330b731a041010d01234ca4775.jpg />
+    <img src=https://i.pinimg.com/originals/8c/26/ea/8c26ea18d628a3df9d9d982dff0b4da0.jpg />
+    <img src=https://i.pinimg.com/originals/52/29/24/522924b6e6382eb039ce72808bc840ab.png />
+    <img src=https://i.pinimg.com/originals/a2/a3/02/a2a3029b88cfd0166d4356f22adcd5dc.jpg />
+    <img src=https://i.pinimg.com/originals/14/b2/e9/14b2e93027f51bc1370bc89f19f628d0.jpg />
+    <img src=https://i.pinimg.com/originals/05/38/90/05389068398fc5db35a75b8847eeb98b.jpg />
+    <img src=https://i.pinimg.com/originals/c8/3a/fb/c83afbc7186f6d1afb120b1b42aa6cec.jpg />
+    <img src=https://i.pinimg.com/originals/da/ee/dc/daeedcab5bc144f0ae0cf7d779eef1c1.jpg />
+    
+</html>
